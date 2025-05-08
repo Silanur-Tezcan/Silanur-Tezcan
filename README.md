@@ -25,7 +25,7 @@
 
 2. **Kişisel Web Sitem**  
    - Sertifikalarım, projelerim ve hakkımda bilgilerin yer aldığı kişisel portföy sitesi.  
-   - [GitHub Repo](link)
+   - <a href="https://snt-cc9b.onrender.com/" target="_blank">Siteyi Ziyaret Et</a>
 
 3. **Python ile Projeler**  
    - Python dilinde yazılmış çeşitli otomasyon ve veri işleme projeleri.  
