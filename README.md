@@ -36,7 +36,7 @@
 ## 🌍 İletişim
 
 - **E-posta**: [tzcn4868@gmail.com](mailto:tzcn4868@gmail.com)  
-- **LinkedIn**:linkedin.com/in/SılaNurTezcan
+- **LinkedIn**: [linkedin.com/in/SılaNurTezcan](https://linkedin.com/SılaNurTezcan)
 - **GitHub**: [github.com/Silanur-Tezcan](https://github.com/Silanur-Tezcan)
 
 ---
