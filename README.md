@@ -11,8 +11,8 @@
 
 - **Diller**: HTML, CSS, JavaScript, Python  
 - **Çerçeveler**: Django, React  
-- **Veritabanları**: SQLite  
-- **Araçlar**: Git, GitHub, VS Code, FileZilla  
+- **Veritabanları**: SQLite 
+- **Araçlar**: Git, GitHub, VS Code, FileZilla , Render
 - **Diğer**: Bootstrap, Django Admin, Web Tasarımı
 
 ---
