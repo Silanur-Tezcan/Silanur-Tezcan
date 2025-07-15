@@ -1,6 +1,7 @@
 # Merhaba! 👋 Ben **Sıla Nur Tezcan**
 
-🔭 Şu anda aktif olarak **Eğitim Web Sitesi** ve **Kişisel Web Sitem** üzerinde çalışıyorum.  
+🔭 Şu anda yayına aldığım Eğitim Web Sitesi ve hem statik hem dinamik yapısıyla tamamladığım Kişisel Web Sitem üzerinden aldığım geri bildirimleri değerlendiriyor, projelerimi daha da geliştirmeye odaklanıyorum.
+ 
 💻 **Web Geliştirme** ve **Python** konularında deneyimim var. Django ve SQLite ile web projeleri geliştiriyorum.  
 🌱 Şu an **React** öğreniyor ve **siber güvenlik** alanına adım atmak için hazırlık yapıyorum.  
 📫 Bana [e-posta](mailto:tzcn4868@gmail.com) üzerinden ulaşabilirsiniz.
