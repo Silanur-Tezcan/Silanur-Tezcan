@@ -27,7 +27,7 @@
 
 2. **Kişisel Web Sitem**  
    - Sertifikalarım, projelerim ve hakkımda bilgilerin yer aldığı kişisel portföy sitesi.  
-   - <a href="https://static-snt.onrender.com/" target="_blank"> Dinamik Site Ziyareti</a>
+   - <a href="[https://snt-cc9b.onrender.com/]" target="_blank"> Dinamik Site Ziyareti</a>
    - [Static Site Ziyareti](https://static-snt.onrender.com/)
 
 
