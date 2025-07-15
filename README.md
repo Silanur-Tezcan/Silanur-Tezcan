@@ -20,17 +20,23 @@
 ## 🌟 Projelerim
 
 1. **Eğitim Web Sitesi**  
-   - Eğitim platformu geliştirme sürecinde öğrenci paneli, admin paneli ve ders içeriklerini yönetebileceğiniz sistemler tasarlandı.  
-   - [GitHub Repo](link)
+   - Eğitim platformu geliştirme sürecinde öğrenci paneli, admin paneli ve ders içeriklerini yönetebileceğiniz sistemler tasarlandı.
+   - [B12 AKADEMİ ](https://b12akademi1.onrender.com/)
+  
+   
 
 2. **Kişisel Web Sitem**  
    - Sertifikalarım, projelerim ve hakkımda bilgilerin yer aldığı kişisel portföy sitesi.  
-   - <a href="https://static-snt.onrender.com/" target="_blank">Siteyi Ziyaret Et</a>
+   - <a href="https://static-snt.onrender.com/" target="_blank"> Dinamik Site Ziyareti</a>
+   - [Static Site Ziyareti](https://static-snt.onrender.com/)
+
 
 3. **Python ile Projeler**  
    - Python dilinde yazılmış çeşitli otomasyon ve veri işleme projeleri.  
    - [GitHub Repo](link)
-
+4. **Yazılım Blogum**  
+   - Yazılım dilleri, web teknolojileri ve kişisel gelişim sürecimi ele aldığım içerikler.  
+   - [Blogu Ziyaret Et](https://blog1-2un3.onrender.com/)
 ---
 
 ## 🌍 İletişim
