@@ -33,7 +33,7 @@
 
 3. **Python ile Projeler**  
    - Python dilinde yazılmış çeşitli otomasyon ve veri işleme projeleri.  
-   - [GitHub Repo](link)
+   - [Github Repo](https://github.com/Silanur-Tezcan/python_kodlari)
 4. **Yazılım Blogum**  
    - Yazılım dilleri, web teknolojileri ve kişisel gelişim sürecimi ele aldığım içerikler.  
    - [Blogu Ziyaret Et](https://blog1-2un3.onrender.com/)
