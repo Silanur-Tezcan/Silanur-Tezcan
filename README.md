@@ -50,9 +50,9 @@
 ## 📂 Projelerim
 
 <p align="center">
-  <
+  
+   <a href="https://static-snt.onrender.com/"><img src="https://img.shields.io/badge/Statik%20Site-Ziyaret%20Et-purple?style=for-the-badge" /></a> 
   <a href="https://snt-cc9b.onrender.com/"><img src="https://img.shields.io/badge/Dinamik%20Site-Ziyaret%20Et-blue?style=for-the-badge" /></a>
-  <a href="https://static-snt.onrender.com/"><img src="https://img.shields.io/badge/Statik%20Site-Ziyaret%20Et-purple?style=for-the-badge" /></a>
   <a href="https://github.com/Silanur-Tezcan/python_kodlari"><img src="https://img.shields.io/badge/Python%20Projeleri-GitHub-orange?style=for-the-badge" /></a>
   <a href="https://blog1-2un3.onrender.com/"><img src="https://img.shields.io/badge/Yazılım%20Blogu-Ziyaret%20Et-yellow?style=for-the-badge" /></a>
 </p>
