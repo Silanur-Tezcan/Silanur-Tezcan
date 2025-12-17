@@ -10,11 +10,13 @@
 ---
 
 ## 🚀 Hakkımda
+Merhaba! 👋  
+Ben **Sıla Nur**, web geliştirme alanında aktif olarak projeler üreten bir geliştiriciyim.
 
-🔭 Web geliştirme ile uzun süredir ilgileniyorum. Yayında olan eğitim platformum ve kişisel portföy sitem üzerinden hem teknik hem görsel açıdan kendimi geliştiriyorum.
-📱 Mobil tarafa da ilgim var; birkaç arayüz ve uygulama denemem oldu, ileride bu alanda daha fazla proje üretmeyi planlıyorum.
-💻 Django ve SQLite ile backend projeleri geliştiriyor, React öğreniyorum. 
-📂 Projelerime göz atmak istersen, hem canlı bağlantılara hem de GitHub’daki kaynak kodlara ulaşabilirsin.
+🔭 Uzun süredir **web teknolojileri** ile ilgileniyorum. Yayında olan **eğitim platformum** ve **kişisel portföy sitem** üzerinden hem teknik hem de tasarımsal becerilerimi geliştiriyorum.  
+📱 **Mobil geliştirme** tarafına da ilgim var; çeşitli arayüz ve uygulama denemeleri yaptım ve bu alanda kendimi daha da geliştirmeyi hedefliyorum.  
+💻 Backend tarafında **Django & SQLite** kullanarak projeler geliştiriyor, frontend tarafında ise **React** öğreniyorum.  
+📂 GitHub profilimde hem canlı projelere hem de açık kaynak kodlara ulaşabilirsiniz.
 
 
 ---
@@ -44,9 +46,11 @@
 ## 🛠️ Teknik Yetenekler
 
 - Django, React, Bootstrap  
-- SQLite, Django Admin  
+- SQLite, Django Admin Paneli  
 - Git, GitHub, VS Code, FileZilla, Render  
-- SEO, Web Tasarımı, Google Search Console
+- SEO, Web Tasarımı, Google Search Console  
+- Temel mobil arayüz geliştirme
+
 
 ---
 
