@@ -18,21 +18,19 @@ Ben **Sıla Nur**, web geliştirme alanında aktif olarak projeler üreten bir g
 💻 Backend tarafında **Django & SQLite** kullanarak projeler geliştiriyor, frontend tarafında ise **React** öğreniyorum.  
 📂 GitHub profilimde hem canlı projelere hem de açık kaynak kodlara ulaşabilirsiniz.
 
-
 ---
 
 ## 🧠 Bildiğim Diller
 
 <h3 align="center">Kullandığım Diller ve Teknolojiler</h3>
 <p align="center">
-  <!-- Diller -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
-  <!-- Teknolojiler -->
+  <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -51,14 +49,12 @@ Ben **Sıla Nur**, web geliştirme alanında aktif olarak projeler üreten bir g
 - SEO, Web Tasarımı, Google Search Console  
 - Temel mobil arayüz geliştirme
 
-
 ---
 
 ## 📂 Projelerim
 
 <p align="center">
-  
-   <a href="https://static-snt.onrender.com/"><img src="https://img.shields.io/badge/Statik%20Site-Ziyaret%20Et-purple?style=for-the-badge" /></a> 
+  <a href="https://static-snt.onrender.com/"><img src="https://img.shields.io/badge/Statik%20Site-Ziyaret%20Et-purple?style=for-the-badge" /></a> 
   <a href="https://snt-cc9b.onrender.com/"><img src="https://img.shields.io/badge/Dinamik%20Site-Ziyaret%20Et-blue?style=for-the-badge" /></a>
   <a href="https://github.com/Silanur-Tezcan/python_kodlari"><img src="https://img.shields.io/badge/Python%20Projeleri-GitHub-orange?style=for-the-badge" /></a>
   <a href="https://blog1-2un3.onrender.com/"><img src="https://img.shields.io/badge/Yazılım%20Blogu-Ziyaret%20Et-yellow?style=for-the-badge" /></a>
@@ -68,9 +64,14 @@ Ben **Sıla Nur**, web geliştirme alanında aktif olarak projeler üreten bir g
 
 ## 📊 GitHub İstatistikleri
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silanur-Tezcan&layout=compact&theme=tokyonight" /></p>
+<div align="center">
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Silanur-Tezcan&show_icons=true&theme=radical" />
+</a>
 
----
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silanur-Tezcan&layout=compact&theme=radical" />
+</a>
 
+</div>
