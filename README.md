@@ -16,7 +16,7 @@ Ben **Sıla Nur Tezcan**, Mehmet Akif Ersoy Üniversitesi **Yönetim Bilişim Si
 Yazılım geliştirme sürecinde; kullanıcı odaklı, sürdürülebilir ve ölçeklenebilir sistemler üretmeye odaklanıyorum.  
 Özellikle **mobil ve web uygulamaları**, **ortak veri mimarileri** ve **yapay zeka destekli çözümler** üzerine aktif olarak çalışıyorum.
 
-🎯 Hedefim, gerçek hayatta karşılığı olan problemleri teknoloji ile çözen, güçlü ve yenilikçi ürünler geliştirmek.
+🎯 Hedefim, gerçek dünya problemlerine teknoloji ile etkili ve sürdürülebilir çözümler geliştirmektir.
 
 ---
 
@@ -123,7 +123,7 @@ Yazılım geliştirme sürecinde; kullanıcı odaklı, sürdürülebilir ve öl�
 
 ---
 
-## 📌 Not
+## 📌 
 
 > Geliştirdiğim bazı projeler ticari ve özgün yapılar içerdiği için **private repository** olarak tutulmaktadır.  
 > Detaylı inceleme veya demo talebi için benimle iletişime geçebilirsiniz.
