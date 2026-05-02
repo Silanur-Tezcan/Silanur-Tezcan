@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-Hi there! 👋 I'm **Sıla Nur Tezcan**, a **Senior Management Information Systems (MIS)** student at Mehmet Akif Ersoy University (**GPA: 3.34**).
+Hi there! 👋 I'm **Sıla Nur Tezcan**, a **Senior Management Information Systems (MIS)** student at Mehmet Akif Ersoy University .
 
 Driven by a passion for technology, I focus on building user-centric, sustainable, and scalable software ecosystems. My goal is to develop innovative solutions for real-world problems by blending AI with modern software architectures.
 
