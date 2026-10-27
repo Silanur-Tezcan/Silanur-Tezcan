@@ -203,11 +203,11 @@ SQL öğrenme sürecimi sorgu örnekleri, açıklamalı kodlar ve veritabanı uy
 ## 📫 Contact | İletişim
 
 - **Email:** [tzcn4868@gmail.com](mailto:tzcn4868@gmail.com)
-- **LinkedIn:** [Sıla Nur Tezcan](https://www.linkedin.com/in/s%C4%B1la-nur-tezcan-86b804326/)
+- **LinkedIn:** [Sıla Nur Tezcan](https://www.linkedin.com/in/sıla-nur-yalçınkaya-86b804326/)
 - **GitHub:** [Silanur-Tezcan](https://github.com/Silanur-Tezcan)
 
 <p align="center">
   <i>Building software, understanding business needs, and improving quality.</i>
 </p>
 
-<p align="right"><i>Last Updated: October 2026</i></p>
+
