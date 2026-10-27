@@ -1,213 +1,232 @@
-# 👩‍💻 Sıla Nur Tezcan
+
+<h1 align="center">👩‍💻 Sıla Nur Yalçınkaya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Management+Information+Systems+Graduate;Aspiring+Business+Analyst+%26+QA+Engineer;Mobile+%26+Web+Development+Background;SQL+%7C+Requirements+Analysis+%7C+Software+Testing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=02569B&center=true&vCenter=true&width=650&lines=Management+Information+Systems+Graduate;Aspiring+Business+Analyst+%26+QA+Engineer;Mobile+%26+Web+Development;SQL+%7C+Business+Analysis+%7C+Software+Testing" alt="Professional interests" />
 </p>
 
 <p align="center">
-  <a href="mailto:tzcn4868@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/s%C4%B1la-nur-tezcan-86b804326/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:tzcn4868@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/s%C4%B1la-nur-yal%C3%A7%C4%B1nkaya-86b804326/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## 🌍 About Me | Hakkımda
+## 👋 About Me
 
-### 🇬🇧 English
+I'm **Sıla Nur Yalçınkaya**, a **Management Information Systems (MIS) graduate** from Mehmet Akif Ersoy University.
 
-Hello! I'm **Sıla Nur Tezcan**, a Management Information Systems (MIS) graduate from Mehmet Akif Ersoy University.
+I have practical experience in mobile and web application development using **Flutter, Dart, Python, Django, Flask, Firebase, and web technologies**. I have also worked on computer vision projects involving object detection and image processing.
 
-I have hands-on software development experience with Flutter, Dart, Python, Django, Firebase, and web technologies, as well as experience working on computer vision projects.
+I'm currently focusing on developing my skills in **Business Analysis** and **Software Quality Assurance (QA)**.
 
-I'm currently focusing on building my career in **Business Analysis and Software Quality Assurance (QA)**.
+My goal is to combine my software development background with business analysis, data analysis, and software testing practices to help teams build reliable solutions that meet user and business needs.
 
-My goal is to combine my technical development background with business requirements analysis, data-driven decision-making, and software quality practices to contribute to reliable, user-centered software solutions.
+I value clear communication, structured problem-solving, continuous learning, and attention to detail.
 
-**Current learning focus:**
-- SQL Server, relational databases, and data querying
-- Business analysis fundamentals and requirements engineering
-- Software testing methodologies and test documentation
-- Agile software development processes
-- API testing and technical documentation
-
-### 🇹🇷 Türkçe
-
-Merhaba! Ben **Sıla Nur Tezcan**, Mehmet Akif Ersoy Üniversitesi Yönetim Bilişim Sistemleri mezunuyum.
-
-Flutter, Dart, Python, Django, Firebase ve web teknolojileriyle yazılım geliştirme deneyimine sahibim. Ayrıca bilgisayarlı görü ve nesne tespiti projelerinde çalıştım.
-
-Şu anda kariyerimi **İş Analizi (Business Analysis)** ve **Yazılım Testi (Software Testing / QA)** alanlarında geliştirmeye odaklanıyorum.
-
-Amacım, yazılım geliştirme geçmişimi iş gereksinimlerinin analizi, veri odaklı problem çözme ve yazılım kalite süreçleriyle birleştirerek kullanıcı ihtiyaçlarına uygun, güvenilir yazılım ürünlerinin geliştirilmesine katkı sağlamak.
-
-**Güncel çalışma alanlarım:**
-- SQL Server ve ilişkisel veritabanları
-- İş analizi ve gereksinim yönetimi
-- Yazılım testi ve test dokümantasyonu
-- Agile yazılım geliştirme süreçleri
-- API testleri ve teknik dokümantasyon
+**Career interests:** Junior Business Analyst | Junior Software Tester | Junior QA Engineer
 
 ---
 
-## 🎯 Career Focus | Kariyer Odağım
+## 🎯 Current Learning Focus
 
-| Business Analysis | Software Quality Assurance |
-|---|---|
-| Requirements Analysis | Test Scenarios & Test Cases |
-| Business Process Analysis | Functional & Regression Testing |
-| User Stories & Acceptance Criteria | Bug Reporting |
-| SQL & Data Analysis | API Testing |
-| Stakeholder Communication | Quality Assurance Processes |
+I'm following a structured learning plan to strengthen my technical and analytical skills through practical exercises and portfolio projects.
 
-> **Current status / Güncel durum:** Building practical skills and portfolio projects in Business Analysis and Software Testing. / İş analizi ve yazılım testi alanlarında uygulamalı yetkinliklerimi ve portföyümü geliştiriyorum.
+| Area | Topics | Current Status |
+|---|---|---|
+| SQL Server | Database fundamentals, SQL queries, filtering, aggregate functions | Practicing |
+| Business Analysis | SDLC, requirements analysis, user stories, acceptance criteria | Planned |
+| Software Testing | Test scenarios, test cases, defect reporting, testing techniques | Planned |
+| API Testing | HTTP, REST, JSON, Postman | Planned |
+| Data Analysis | Excel, Power BI | Planned |
+| Agile & Collaboration | Scrum, Kanban, Jira, Confluence | Planned |
+
+I document my progress on GitHub to demonstrate what I have learned and practiced.
+
+### 📘 SQL Server Practice Repository
+
+<a href="https://github.com/Silanur-Tezcan/sql-server-calismalarim">
+  <img src="https://img.shields.io/badge/SQL_Server-View_Practice_Repository-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Repository" />
+</a>
+
+My SQL practice repository currently includes:
+
+- Database and table creation
+- SELECT and WHERE queries
+- AND, OR, and comparison operators
+- ORDER BY, TOP, and DISTINCT
+- LIKE, IN, and BETWEEN
+- NULL handling
+- COUNT, SUM, AVG, MIN, and MAX
+- CAST and data type conversion
+
+**Next topic:** GROUP BY and HAVING.
 
 ---
 
-## 🛠️ Technical Skills | Teknik Yetkinlikler
+## 🛠️ Technical Skills
 
-### Software Development
+### Mobile & Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### Databases & Tools
+### Backend & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
 ### AI & Computer Vision
 
 <p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
 
-## 📚 Current Learning Journey | Güncel Öğrenme Sürecim
+## 📂 Featured Projects
 
-I'm following a structured learning path toward Junior Business Analyst and Junior QA roles.
+### 🧹 MopUp | Service Marketplace Application
 
-Junior İş Analisti ve Junior Yazılım Test Uzmanı pozisyonlarına hazırlanmak için sistemli ve uygulamalı bir eğitim süreci yürütüyorum.
-
-| Area / Alan | Topics / Konular | Status / Durum |
-|---|---|---|
-| SQL Server | SELECT, WHERE, ORDER BY, LIKE, IN, BETWEEN, Aggregate Functions | Practicing / Uygulama yapıyorum |
-| Business Analysis | SDLC, Requirements, User Stories, BPMN, UML | Learning Roadmap / Öğrenme planında |
-| Software Testing | Test Cases, Bug Reports, Test Techniques | Learning Roadmap / Öğrenme planında |
-| API Testing | HTTP, REST, JSON, Postman | Planned / Planlandı |
-| Data Analysis | Excel, Power BI | Planned / Planlandı |
-| Project Management | Agile, Scrum, Jira, Confluence | Planned / Planlandı |
-
-### 🗄️ SQL Server Practice Portfolio
-
-I document my SQL learning process through practical queries, explanations, and database exercises.
-
-SQL öğrenme sürecimi sorgu örnekleri, açıklamalı kodlar ve veritabanı uygulamalarıyla GitHub üzerinde belgeliyorum.
-
-**Repository / Çalışma deposu:**
-
-[📂 SQL Server Çalışmalarım](https://github.com/Silanur-Tezcan/sql-server-calismalarim)
-
-**Topics covered / Çalışılan konular:**
-- Database and table creation / Veritabanı ve tablo oluşturma
-- SELECT and WHERE queries / Veri sorgulama ve filtreleme
-- ORDER BY and TOP / Sıralama ve belirli sayıda kayıt getirme
-- LIKE, IN, BETWEEN / Gelişmiş filtreleme
-- NULL handling / NULL değer kontrolü
-- COUNT, SUM, AVG, MIN, MAX / Toplama fonksiyonları
-- CAST and data type conversion / Veri tipi dönüşümü
-
----
-
-## 📂 Featured Projects | Öne Çıkan Projeler
-
-### 🧹 MopUp — Service Marketplace Platform
 **Technologies:** Flutter, Firebase
 
-**EN:** A service marketplace application connecting customers with service providers, featuring real-time notifications and a user-driven rating system.
+A mobile application designed to connect customers with service providers.
 
-**TR:** Hizmet sağlayıcıları müşterilerle buluşturan; anlık bildirim ve kullanıcı değerlendirme özelliklerine sahip bir hizmet eşleştirme uygulaması.
+**Key features:**
+- Service discovery and matching
+- Firebase-based data management
+- Real-time notifications
+- User ratings and feedback
 
 ### 🤖 Object Detection & Analysis System
+
 **Technologies:** Python, YOLOv8, OpenCV
 
-**EN:** A computer vision project exploring object detection, image preprocessing, thresholding, density analysis, and coordinate-based tracking techniques.
+A computer vision project focused on object detection and image analysis.
 
-**TR:** Nesne tespiti, görüntü ön işleme, eşikleme, yoğunluk analizi ve koordinat tabanlı takip teknikleri üzerine geliştirilen bilgisayarlı görü çalışması.
+**Key areas:**
+- Image preprocessing
+- Thresholding techniques
+- Density analysis
+- Coordinate-based object tracking
 
-### 📚 B12 Academy — Educational Management System
+### 📚 B12 Academy | Educational Management System
+
 **Technologies:** Flutter, Django, Firebase
 
-**EN:** An educational management platform with role-based functionality for administrators, teachers, and students, including learning content and assessment features.
+An educational management platform designed to support different user roles and learning processes.
 
-**TR:** Yönetici, öğretmen ve öğrenci rollerini destekleyen; eğitim içerikleri, sınavlar ve değerlendirme süreçlerine yönelik bir eğitim yönetim platformu.
+**Key features:**
+- Administrator, teacher, and student roles
+- Learning content management
+- Quizzes and assessments
+- Reporting and notifications
 
-### 💰 Pi Tracking — Income & Lesson Management
+### 💰 Pi Tracking | Income & Lesson Management
+
 **Technologies:** Flutter
 
-**EN:** An application designed to organize income and expense records alongside lesson schedules and earnings calculations.
+An application designed to organize financial records and lesson schedules.
 
-**TR:** Gelir-gider takibini, ders planlamasını ve kazanç hesaplamalarını bir araya getiren bir yönetim uygulaması.
+**Key features:**
+- Income and expense tracking
+- Earnings calculations
+- Lesson scheduling
+- Record management
 
-### 🌐 BlogHub — Content Sharing Platform
+### 🌐 BlogHub | Content Sharing Platform
+
 **Technologies:** Django, JavaScript, CSS
 
-**EN:** A blogging platform supporting content publishing and user interactions through comments and likes.
+A web-based blogging platform that allows users to publish content and interact with other users.
 
-**TR:** Kullanıcıların içerik paylaşabildiği, yorum yapabildiği ve beğeni etkileşimlerinde bulunabildiği blog platformu.
+**Key features:**
+- Article publishing
+- Comments and likes
+- Dynamic content rendering
+- User interaction features
 
 ---
 
-## 📊 GitHub Statistics | GitHub İstatistikleri
+## 📈 Professional Development Goals
+
+I'm building a portfolio that demonstrates my ability to understand business needs, work with data, and evaluate software quality.
+
+My upcoming practical projects will focus on:
+
+- Business requirements documentation
+- Stakeholder and business process analysis
+- User stories and acceptance criteria
+- SQL-based data validation
+- Test scenarios and test cases
+- API testing with Postman
+- Bug reports and test summary reports
+
+I will add completed projects and supporting documentation as I progress.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Silanur-Tezcan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silanur-Tezcan&layout=compact&theme=radical" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Silanur-Tezcan&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silanur-Tezcan&layout=compact&theme=tokyonight" alt="Most used languages" />
 </p>
 
 ---
 
-## 💼 Career Opportunities | Kariyer Fırsatları
+## 💼 Career Interests
 
-**EN:** I'm interested in entry-level opportunities in Business Analysis and Software Quality Assurance, where I can apply my technical background while continuing to develop my analytical and testing skills.
+I'm interested in entry-level opportunities in **Business Analysis** and **Software Quality Assurance**.
 
-**TR:** Teknik altyapımı değerlendirebileceğim, analitik düşünme ve yazılım testi becerilerimi geliştirebileceğim Junior İş Analisti ve Junior QA pozisyonlarıyla ilgileniyorum.
+I aim to contribute to software teams by combining my development experience with analytical thinking, clear documentation, and a focus on software quality.
 
----
-
-## 📌 Note | Not
-
-**EN:** Some of my software projects are kept in private repositories due to confidentiality requirements. Additional information may be shared when appropriate.
-
-**TR:** Bazı yazılım projelerim gizlilik gereklilikleri nedeniyle özel depolarda tutulmaktadır. Uygun durumlarda projeler hakkında ek bilgi paylaşılabilir.
+I'm particularly interested in roles that involve understanding user needs, analyzing requirements, working with data, and supporting software testing processes.
 
 ---
 
-## 📫 Contact | İletişim
+## 📌 Additional Information
+
+Some of my software projects are maintained in private repositories due to confidentiality requirements. Additional information may be shared when appropriate.
+
+---
+
+## 📫 Contact
+
+I'm open to professional networking, collaboration, and entry-level career opportunities.
 
 - **Email:** [tzcn4868@gmail.com](mailto:tzcn4868@gmail.com)
-- **LinkedIn:** [Sıla Nur Tezcan](https://www.linkedin.com/in/sıla-nur-yalçınkaya-86b804326/)
+- **LinkedIn:** [Sıla Nur Yalçınkaya](https://www.linkedin.com/in/s%C4%B1la-nur-yal%C3%A7%C4%B1nkaya-86b804326/)
 - **GitHub:** [Silanur-Tezcan](https://github.com/Silanur-Tezcan)
 
 <p align="center">
-  <i>Building software, understanding business needs, and improving quality.</i>
+  <i>Connecting business needs, software development, and quality.</i>
 </p>
 
-
+<p align="right"><i>Last updated: October 2026</i></p>
