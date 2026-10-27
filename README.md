@@ -32,41 +32,10 @@ I value clear communication, structured problem-solving, continuous learning, an
 
 ---
 
-## 🎯 Current Learning Focus
 
-I'm following a structured learning plan to strengthen my technical and analytical skills through practical exercises and portfolio projects.
 
-| Area | Topics | Current Status |
-|---|---|---|
-| SQL Server | Database fundamentals, SQL queries, filtering, aggregate functions | Practicing |
-| Business Analysis | SDLC, requirements analysis, user stories, acceptance criteria | Planned |
-| Software Testing | Test scenarios, test cases, defect reporting, testing techniques | Planned |
-| API Testing | HTTP, REST, JSON, Postman | Planned |
-| Data Analysis | Excel, Power BI | Planned |
-| Agile & Collaboration | Scrum, Kanban, Jira, Confluence | Planned |
 
-I document my progress on GitHub to demonstrate what I have learned and practiced.
 
-### 📘 SQL Server Practice Repository
-
-<a href="https://github.com/Silanur-Tezcan/sql-server-calismalarim">
-  <img src="https://img.shields.io/badge/SQL_Server-View_Practice_Repository-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Repository" />
-</a>
-
-My SQL practice repository currently includes:
-
-- Database and table creation
-- SELECT and WHERE queries
-- AND, OR, and comparison operators
-- ORDER BY, TOP, and DISTINCT
-- LIKE, IN, and BETWEEN
-- NULL handling
-- COUNT, SUM, AVG, MIN, and MAX
-- CAST and data type conversion
-
-**Next topic:** GROUP BY and HAVING.
-
----
 
 ## 🛠️ Technical Skills
 
@@ -225,8 +194,4 @@ I'm open to professional networking, collaboration, and entry-level career oppor
 - **LinkedIn:** [Sıla Nur Yalçınkaya](https://www.linkedin.com/in/s%C4%B1la-nur-yal%C3%A7%C4%B1nkaya-86b804326/)
 - **GitHub:** [Silanur-Tezcan](https://github.com/Silanur-Tezcan)
 
-<p align="center">
-  <i>Connecting business needs, software development, and quality.</i>
-</p>
 
-<p align="right"><i>Last updated: October 2026</i></p>
